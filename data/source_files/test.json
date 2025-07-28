@@ -1,0 +1,28 @@
+{
+  "Tests": [
+    {
+      "id": 1,
+      "testName": "test1",
+      "status": "pass",
+      "durationMs": 1500,
+      "startTime": "2025-07-24T14:30:25.123Z",
+      "endTime": "2025-07-24T14:30:26.623Z"
+    },
+    {
+      "id": 2,
+      "testName": "test2",
+      "status": "failed",
+      "durationMs": 2300,
+      "startTime": "2025-07-24T14:30:26.650Z",
+      "endTime": "2025-07-24T14:30:28.950Z"
+    },
+    {
+      "id": 3,
+      "testName": "test3",
+      "status": "pass",
+      "durationMs": 3200,
+      "startTime": "2025-07-24T14:30:29.000Z",
+      "endTime": "2025-07-24T14:30:32.200Z"
+    }
+  ]
+}

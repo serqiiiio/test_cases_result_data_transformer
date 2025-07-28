@@ -1,0 +1,20 @@
+# Ignore Python virtual environment
+.venv/
+
+# Ignore logs folder
+logs/
+
+# Ignore export files (generated output)
+data/export_files/
+
+# Optional: ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Optional: ignore temporary files from editors
+*.swp
+*.swo
+.DS_Store
+.idea/
